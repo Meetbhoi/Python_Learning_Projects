@@ -17,23 +17,23 @@ It is a simple program made to help understand how functions and user input work
 ---
 
 Feel free to explore the code, try it, and learn from it!
-# 💰 Who Wants to Be a Millionaire - Python Console Game
+#  Who Wants to Be a Millionaire - Python Console Game
 
 A simple console-based Python game that simulates the popular quiz show **"Who Wants to Be a Millionaire?"**. Answer all the questions correctly and win ₹1,000,000!
 
 ---
 
-## 🎯 Features
+## Features
 
 - 9 multiple-choice questions
-- Incremental prize money for each correct answer
+  Incremental prize money for each correct answer
 - Auto-terminate on wrong answer
 - Final congratulatory message if you win all!
 - Beginner-friendly structure with clean code and comments
 
 ---
 
-## 🧠 Rules
+##  Rules
 
 - Each question has **4 options**: a, b, c, and d (represented as 1–4).
 - You must input the correct option number (1 for a, 2 for b, etc.).
@@ -42,7 +42,7 @@ A simple console-based Python game that simulates the popular quiz show **"Who W
 
 ---
 
-## 🛠️ Requirements
+##  Requirements
 
 - Python 3.x
 
@@ -50,7 +50,7 @@ A simple console-based Python game that simulates the popular quiz show **"Who W
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. **Clone or Download** this repository.
 2. Open the file in your favorite Python IDE or Jupyter Notebook.
